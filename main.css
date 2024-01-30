@@ -1,0 +1,19 @@
+.row {
+    width: 40.625rem;
+    margin: 0 auto;
+    padding-top: 5rem;
+}
+
+.row h1 {
+    text-align: center;
+    margin-bottom: 3rem;
+}
+
+form input {
+    margin-bottom: 1.5rem;
+}
+
+form button { 
+    margin-top: 1.5rem;
+    width: 100%;
+}
